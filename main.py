@@ -11,7 +11,7 @@ screen.bgcolor("black")
 screen.title("Limbless reptile game!")
 screen.tracer(0)
 
-#Create the snake, food, and scoreboard objects
+#Create the Limbless Reptile (aka snake), food, and scoreboard objects
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
